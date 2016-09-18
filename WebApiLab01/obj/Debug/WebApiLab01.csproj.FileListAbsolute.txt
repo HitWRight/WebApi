@@ -1,0 +1,8 @@
+E:\KTU programavimas\WebApi\WebApiLab01\bin\Debug\WebApiLab01.exe.config
+E:\KTU programavimas\WebApi\WebApiLab01\bin\Debug\WebApiLab01.exe
+E:\KTU programavimas\WebApi\WebApiLab01\bin\Debug\WebApiLab01.pdb
+E:\KTU programavimas\WebApi\WebApiLab01\bin\Debug\Newtonsoft.Json.dll
+E:\KTU programavimas\WebApi\WebApiLab01\bin\Debug\Newtonsoft.Json.xml
+E:\KTU programavimas\WebApi\WebApiLab01\obj\Debug\WebApiLab01.csprojResolveAssemblyReference.cache
+E:\KTU programavimas\WebApi\WebApiLab01\obj\Debug\WebApiLab01.exe
+E:\KTU programavimas\WebApi\WebApiLab01\obj\Debug\WebApiLab01.pdb
